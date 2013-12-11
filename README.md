@@ -1,4 +1,4 @@
 Supercomputer
 =============
 
-Supercomputer - UI based on the movies.
+UI based on the movies.
